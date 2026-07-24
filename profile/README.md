@@ -8,7 +8,7 @@ Solanica is dedicated to providing a **Cloud Native Data Platform** powered by *
 
 ---
 
-## 🚀 Our Core Offering
+## Our Core Offering
 
 We deliver a cutting-edge platform designed to meet the demands of modern data infrastructure:
 
@@ -16,9 +16,9 @@ We deliver a cutting-edge platform designed to meet the demands of modern data i
 * **Data Anywhere:** Run your data workloads seamlessly across multi-cloud, hybrid-cloud, and on-premises environments.
 * **Security & Ownership:** Benefit from the security and features of enterprise-grade cloud platforms without sacrificing control over your data assets.
 
-## 🛠️ OpenEverest - The Engine of Our Platform
+## OpenEverest
 
-Solanica is the core developer and driving force behind the open-source project: **OpenEverest**.
+Solanica is the core developer and driving force behind the CNCF Sandbox open-source project: OpenEverest.
 
 OpenEverest is the foundation of the Solanica Data Platform. It is a powerful, extensible, and open core technology that manages and orchestrates data services.
 
@@ -29,7 +29,7 @@ We encourage developers, data engineers, and architects to explore the OpenEvere
 
 ---
 
-## 📂 About This Organization (`solanicaio`)
+## About This Organization
 
 The repositories within the `solanicaio` GitHub organization support the commercial distribution and ongoing development of the Solanica Platform built on OpenEverest.
 
@@ -42,7 +42,7 @@ Here you will find:
 
 ---
 
-## 🤝 Commercial Support & Licensing
+## Commercial Support & Licensing
 
 While OpenEverest is open source, Solanica offers enterprise-grade solutions and services to ensure your data platform is successful:
 
@@ -50,7 +50,7 @@ While OpenEverest is open source, Solanica offers enterprise-grade solutions and
 * **Commercial Licenses:** Unlock advanced features, enterprise integrations, and specialized tooling.
 * **Paid Plugins:** Enhance your platform with commercial extensions and connectors.
 
-## 📞 Get In Touch
+## Get In Touch
 
 Whether you have a commercial inquiry, need technical support, or want to learn more about the Solanica Platform and OpenEverest, we'd love to hear from you!
 
